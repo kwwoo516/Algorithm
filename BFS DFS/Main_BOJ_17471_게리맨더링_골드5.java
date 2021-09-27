@@ -7,7 +7,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 // 그래프, bfs
-public class Main_골드5_17471_게리맨더링 {
+public class Main_BOJ_17471_게리맨더링_골드5 {
 	static int N;
 	static int[] pop;
 	static ArrayList<Integer>[] adjlist;

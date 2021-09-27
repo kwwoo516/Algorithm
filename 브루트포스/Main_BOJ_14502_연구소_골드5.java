@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Main_BOJ_골드5_14502_연구소 {
+public class Main_BOJ_14502_연구소_골드5 {
 	
 	static int[] dr = {1,0,-1,0};
 	static int[] dc = {0,1,0,-1};

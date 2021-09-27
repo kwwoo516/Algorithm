@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_12865_평범한배낭_골드5 {
+public class Main_BOJ_12865_평범한배낭_골드5 {
 //dp
 	static int N, K;
 	static int[][] stock;
